@@ -1,7 +1,7 @@
 {
   "name": "obj-keypath",
   "description": "get/set object values using keypaths",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": {
     "url": "git://github.com/sethvincent/obj-keypath.git"
   },
