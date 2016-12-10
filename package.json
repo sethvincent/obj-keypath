@@ -18,7 +18,8 @@
   "dependencies": {
     "is-number": "^3.0.0",
     "is-string": "^1.0.4",
-    "isarray": "^2.0.1"
+    "isarray": "^2.0.1",
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
     "standard": "^8.5.0",
